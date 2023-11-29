@@ -18,6 +18,7 @@
 ![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=torproject&logoColor=7E4798)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-090909?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Bash](https://img.shields.io/badge/Bash-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Selenide](https://img.shields.io/badge/Selenide-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 
 ### 🤖 Автоматизированное тестирование
